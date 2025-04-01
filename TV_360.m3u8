@@ -1,344 +1,304 @@
-#EXTINF:-1 tvg-id="1" group-title="TV360", Kênh 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/199/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNDYsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tM3U4In0.e4suOjCNNVG8_sC_Mn5AQrxMZF0qrkFeT1hxqTixcgs&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="2" group-title="TV360", Kênh 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNDYsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.7YuuJ9-zVjwrgI06xkF5DCNKigK3qzdHFvJpDb2DLeo&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MTYsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.FMXu1Xg1fdiS3UcCUdgzVz6iKDokSH2CgG_iDLFjLE4&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="3" group-title="TV360", Kênh 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNDYsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.E9ZRABKGvXnb1jYlOE-0SVctRPI2gX3sZeN-v4MtwXo&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MTYsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.aRCAhbhxV0EBVVFRNuyaQ_Yr6x2pGQd9Yz34QVSeKVE&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="4" group-title="TV360", Kênh 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tr-netcdn.tv360.vn/netcdn-live/155/output/index.m3u8?timestamp=1743489249&token=5676e94a90f17dcfa48bbe3f956d962e&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/155/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MTYsInVyaSI6Ii9icGstdHYvMTU1L291dHB1dC9pbmRleC5tM3U4In0.evah7XmwbcaZ1yo5xGvmGenC_Ha12NArVYAOA1LEXDE&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="6" group-title="TV360", Kênh 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/195/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNDksInVyaSI6Ii9icGstdHYvMTk1L291dHB1dC9pbmRleC5tM3U4In0.IAslq4H17qSfhGgaH_D18uhS99fP1roI3o1a5yrtF90&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/195/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MTksInVyaSI6Ii9icGstdHYvMTk1L291dHB1dC9pbmRleC5tM3U4In0.5zyErTrnqnDN2AftFsSm1robNQc5xVzVQZzThv4DY6o&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="8" group-title="TV360", Kênh 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNDksInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.lf3DbZjzVLPi7QdhZcZAqW4aGZQ9IijQ0gEPpJWG-e4&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MTksInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.GekzjqQvBB5JzfcGZuHF6hIZN-xAQojrLw8U65qYx_Y&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="11" group-title="TV360", Kênh 11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/398/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNDksInVyaSI6Ii9icGstdHYvMzk4L291dHB1dC9pbmRleC5tM3U4In0.jWJfwixvWKK1AATpiQffyQrA5rVZYgKvZyKMX9Dk84U&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/398/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MTksInVyaSI6Ii9icGstdHYvMzk4L291dHB1dC9pbmRleC5tM3U4In0.EGbDJcsuwmIflkopuvWrfmCHJpx4jDDRqhVIu5JNqYA&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="12" group-title="TV360", Kênh 12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/420/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNDksInVyaSI6Ii9icGstdHYvNDIwL291dHB1dC9pbmRleC5tM3U4In0.cYNm38-eNrUEi6MXhcPfhkD1yhuwLtPwr5_5Y9OIv50&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/420/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MTksInVyaSI6Ii9icGstdHYvNDIwL291dHB1dC9pbmRleC5tM3U4In0.OxZ7BCT8UlehWVCacb0bVWdHQZw3ofyGjeeEh3n8p5c&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="13" group-title="TV360", Kênh 13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/160.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5mWqjBLTD7sSHkxICunXOAni6eQOZ8zd/0i9L9KVXWYdGJ6+fwv2mC7ofaKd6xENSrfTSOuSLkk7KuMCPGmqCTi1kCQlzHa/3P2dMGqIIOHKumc+7urkrOiiCmV2OFyGEPx/rhvUYX3LiRA1hfQvpl0ofaHGZc5WmpAAo0i6Ah3&uid=173373703
+http://171.238.180.230:18080/160.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3zZH0EgUtjF/YXTU574Z/ZqqC6j3dFguNeNHCxegUhWPTKg86H5RTHhJD4p/huhKL1CyaajG/3xIoiPDUcNK+ZDn70c0itA/F9I/+dT499sb5oTinwi4ivG5dTgR1Qup57no+aRyr+fMBxu8kNT3PqW90SCwjc0q4mupVxjtaDk&uid=173373703
 #EXTINF:-1 tvg-id="14" group-title="TV360", Kênh 14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/421/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNTIsInVyaSI6Ii9icGstdHYvNDIxL291dHB1dC9pbmRleC5tM3U4In0.4BGGOo3EBkvN-F9L43bqYD9nzOqSDzPs_RWQAAENJ0k&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/421/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MjIsInVyaSI6Ii9icGstdHYvNDIxL291dHB1dC9pbmRleC5tM3U4In0.YWI3v-C1wVRCgWkYnAR35VlLkSeWN6lkbVKxy1U8eOs&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="15" group-title="TV360", Kênh 15
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNTIsInVyaSI6Ii9icGstdHYvMTU5L291dHB1dC9pbmRleC5tM3U4In0.0vbM9qeuW4pidcmIwjpfREvU1yI0u8JrbDsKsluVq8E&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MjIsInVyaSI6Ii9icGstdHYvMTU5L291dHB1dC9pbmRleC5tM3U4In0.fhHdWMifDdfpKclz1wszE29uO5LSLWzCfi8M1V5_zvo&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="19" group-title="TV360", Kênh 19
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.50.6:18080/141.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T2QnBm1RHU7WSrqNfkZQh/NYLLBzUyAlFZwXyuSfNeHo/BAAJkp7UItGC/xrFS6d1vQrv/FR51oAXUb6mPIPqFtZIBG1ahBLTrha2+JXuiEwoQT/d7J2Gmt1BJdKCfVdEv6u9brSTKINktkmVWX7eDzHFzjZ/3mvQOwA+h1MIbDw==&uid=173373703
+http://116.108.198.150:18080/141.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QOq3EUuC0XvBBBFYBb9g8aAuXZtvTU890IzPOnj9+15v5KpVfOcxUHKdPlHMif/tsBNwJICkvYsY9Cw2fh+uCIoAaYQPCCZ6XGJ7cj0QMw8r74Gct0BBqsJSIGrWqUeVaMW8bhFZbWThPDupCCnh1AqTFsvrmplQoIs1/a8lZtfw==&uid=173373703
 #EXTINF:-1 tvg-id="20" group-title="TV360", Kênh 20
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/378/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNTIsInVyaSI6Ii9icGstdHYvMzc4L291dHB1dC9pbmRleC5tM3U4In0.04kk-oJC0f23JZ3n4SMAkGB_G8alpimnYdL38zq9uO0&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/378/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MjIsInVyaSI6Ii9icGstdHYvMzc4L291dHB1dC9pbmRleC5tM3U4In0.nWQygC37x_NdOwLnH3N9LH6Hu3MRPA74zt_3lRiXcF8&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="25" group-title="TV360", Kênh 25
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNTUsInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0.3ConqBwRTLZr9gtqAKlwpM2FBnDtYbzgWohgLgUncmo&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MjIsInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0.1nmGTJqeKHrF7j9f0qXTWNKHO2kYgDsS_GvW2CoiaAM&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="26" group-title="TV360", Kênh 26
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNTUsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0.k20oReXLdtgq3vTm0g6m1SeON-LqT1WOf_uLUZvnNlU&minrate=0&maxrate=6000000&uid=173373703
+https://tr-netcdn.tv360.vn/netcdn-live/249/output/index.m3u8?timestamp=1743500622&token=1d85e9715489cd2f885dbaba0d823e7c&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="33" group-title="TV360", Kênh 33
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/282.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/04YYv1cdedgoM8iKHDcfjqGEY0IioSb0TeY+fz7qUBb5QxFd4cMwRqDuJaPG3ISf+SZe5+u9a7RE8WiwtKLMPXGJnNYy4P7SUay7yka251SSiw6TszknZrrgnBhH+O36/dIMRLIXNC9+fkUEQuvxw/pPpnufxGBtXd7c9xlI6Il&uid=173373703
+http://171.238.180.230:18080/282.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8FcQF2/nRXK+f3QTVxj8xkoPz8sH9oX8UZJ0+WXpaqKTOfZ99hDnTjrX2BrMIHIcS5NBw+EbnrNbA7N9229K2PfetpOlR2myMtEHdxpU6JdCfa83P0qw6FtoxEJKln2Vi7vQ8UgtqpDoSwSFYTqBYLntMRT/D4/kEe2I0CgyfHI&uid=173373703
 #EXTINF:-1 tvg-id="34" group-title="TV360", Kênh 34
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/04YYv1cdedgoM8iKHDcfjqGEY0IioSb0TeY+fz7qUBbiq/R8IQW0j9SoUtNq0Lixfopp7byeCNkZdVgQJeZ3r+A/d2Mn9BFsZBX+VMegh/79dqv7Zi0MNBe/R9svlKtnq4msV+6M7g36ElWqbnMHIZ01ghx7ckKAsAWhpQcvvFM&uid=173373703
+http://171.238.180.230:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3zZH0EgUtjF/YXTU574Z/ZqqC6j3dFguNeNHCxegUhWJzzbXi64km92aCpPHmeApfzbicokI1W4A/jlgXv+DlCXRcftBrF1QWgWvJ5nc/JJUQBa1DPluyUMlX/ByB7F2oEglndZUlyWpwAUfSyUTBb9XvBGlHdvbyg8222RtqoW&uid=173373703
 #EXTINF:-1 tvg-id="36" group-title="TV360", Kênh 36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/345.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/yqEPgB9RNupXqTXWDkwSwFLIasfS37a54Kgj50i/n/rYFXyTaIuyvr8ZZbqA3ZZEutp6G7r7XIKI+8l43+1gcE1npOXkQZ3hPGsuAVGMB74n9ycVRkcbFo0lrmaBu6qmG8xGdR5EOaI91aNQHLSem2EUWfUwpWHh+Py0vdc+am8&uid=173373703
+http://171.238.180.230:18080/345.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3zZH0EgUtjF/YXTU574Z/ZqqC6j3dFguNeNHCxegUhWrYWWXgGSwHW9ZhQ/mYRHX0CoxJDr3e0hXTaW9qkKn8ZCPBKVwX6D2JR1V4z7tkETZ7DY2h4DOvPQQsYIvvHINDHpdk2axkBvS6fdDFiV6DpF1bICSVfw9xcDZSkRtmH5&uid=173373703
 #EXTINF:-1 tvg-id="37" group-title="TV360", Kênh 37
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/310.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7w6Yvq8zFTwHDQ5rJTI9A6/D3ftPjP2/Q/cCpkd6YBGvsPC+dE0+YSMLtNc+MkmjUVgst2w+0/tcfdslKt9bYNEHZZQqoDR8Bkns/unVELQMT8vjU5XiQkU19+YbZGQubN1HrbVBs5fApFsF4KzLXsWgIzJekGgntfIsermPdyw&uid=173373703
+http://171.238.180.230:18080/310.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9QjNfj8/SiEcma1w3wJNfuX+sp8yKE0WBew71HEOaUZJBJx/BBPUjFRTB+1vUZpCeQnGzDKdHPc1KonghtSQbxSqiluhBIveY6BK2rT4f2ZCINSavx0FN4JhEZ0imzlhjRF9LARQuAGqgFIG08BASifz5AmqXSylf9V9PA1m2Y4&uid=173373703
 #EXTINF:-1 tvg-id="39" group-title="TV360", Kênh 39
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/328.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5hD08NSmu32yuMhdV/uVl2uYB8xwMr7CxMDop0OwsALgr9dNh+3GNa6KWLHR4q0/l+qUb+382gu2p+9REDdsCDV+r+fwHDWrDXsmJeC6ZyQN2c4fXpHAFDU70ejrv8KdB/d21RGQrFgZG2EZaeM5CfGYqcYmFgeu3eeoMnVOexR&uid=173373703
-#EXTINF:-1 tvg-id="60" group-title="TV360", Kênh 60
+http://171.238.180.230:18080/328.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/yzBPnz+pHE4YCbBlq/6afWaFsWgEsn3Ele0//QVpGhECLTSG735gaaJVFpK5fbeW2PL4YDkXb/KRY2SRcXFoR54i9PKdZiPZVBbu27ew9rC13A7Z7PONf/9xIurwVnIYm5glStjLnbkOI+wM8/AbexLJSocj99t6hxR8D8sy3li&uid=173373703
+#EXTINF:-1 tvg-id="40" group-title="TV360", Kênh 40
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/305.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zjmpvz1AHzTi69AZFotOpsuS8ctzO11A159c9qI0k0NZdZIT4ftBQEVXpAsScva404XdPKfEozYqI1UffP5Q3YSZaAsSP1cxOC0PX/XCatR1wfcNVsGtrOhyLo7cb0MTASnUn7GbXkZPddY8FSp+PZZ7lWUO6Sg0uQsb50PxYCV&uid=173373703
+http://171.238.180.230:18080/257.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/4pqGbmztu70y9nrGeBRpUyVSENIvtz1XlZImCuI2hQpQXwNdxpHTCT9wOLYDuJW7JRKYeBc73Q2fviIqXRQedVgucnmRmBmqDiz2XdXe/IrUink7RzUHB8HDlsWj+9BpzT6cKE6USzkY1wei81kZVipGqNDi4vyPoOBSXD3fD10&uid=173373703
 #EXTINF:-1 tvg-id="62" group-title="TV360", Kênh 62
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/373/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNjcsInVyaSI6Ii9icGstdHYvMzczL291dHB1dC9pbmRleC5tM3U4In0.Xn0CV519WON_ZcUYduaUEA4Tof4KAVi4BQDbdu2vHLw&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/373/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MzcsInVyaSI6Ii9icGstdHYvMzczL291dHB1dC9pbmRleC5tM3U4In0.QEiWiviKdJ0q7JLzhHY9nwO64RWasbBkHqdfvvzB0S8&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="63" group-title="TV360", Kênh 63
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/322.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/0ZgUvqr+wTGV+u5ZdoCR+uBiDjje5ji5frSRnh6WRa1ZByDM/wCPtxnpgfp21Lnv4x5vbDRps5h9+zIX3Swrc0N3HDgZtdC/6+rDgfhWKrQAZQK8251MRba3W77+6XkXn94mORdsiY38bZXD8gCTDhIkADZx3r0i+K0DUis6Boz&uid=173373703
+http://171.238.180.230:18080/322.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zMMWpmcSYw4AphsqE8zNDY8Yjn5WWtfj7LaUFwKCqEqHd/OYoYZYAayaJnlVZ0GHsl7tqySfR4P/iFxQGO+bkfflFTZFS713JYzCV1qxeQNW+qkqQMzGPdrdpHBz6gK1/3AQdBHIdNpWapOgXe0kxtXu9rcse3NyWSkyiWl3sHS&uid=173373703
 #EXTINF:-1 tvg-id="64" group-title="TV360", Kênh 64
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/325.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7iF/n2VYCqaWK2QWTOzR0jzPcCBmVFbuSdUEEYFbaKMFC8c4O4IRI+YrjUe/7gE3ayWCyC2KpVgOxqSA3WzxByeWCgIufs3bpBJnoFuyONybWCNsLba1K2o3Rm203vLw+SxjcSMH1MIA/BI/CV1X5U7BMmDp8uTOgV1bP+/Ypp+&uid=173373703
+http://171.238.180.230:18080/325.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zMMWpmcSYw4AphsqE8zNDY8Yjn5WWtfj7LaUFwKCqEq43emYAuz9GRS7Y1R8iAte/bTcBcTyN+U8jWJsYtw2LspUdWeW2S8OPvJ3n9vawcjHnwrtCA4OL1T55/iBkP1YBJUE/KmGUKqELwefo72IdtKlwjaoP/5oGaarZkDAkbc&uid=173373703
 #EXTINF:-1 tvg-id="65" group-title="TV360", Kênh 65
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/318.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/wbaOqV8Dh+kqKKTpUey/Jw+qbRHdUlgIW6QKVwR3IZIDZ6iDtUd7c22ube5xFyH8TbdAE2pdYmhPEVpnV9Ek8fEmKpaRj1MBYfJj5e9/P4rsimri4Y+uB5P7UwqXew/xE+kv1fufddHNkFfrt+dcaegH84jLL5jrQtnVO6uZ13w&uid=173373703
+http://171.238.180.230:18080/318.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/+7vbsOu+1buD5FnrGn8kOIIyXCiZZRAGKlISH8HvJfFpQwRsBSgWDXRA2QUIbHMgnyxbMoM92QTClRmwwFHW8Ip7C6o8so1HZ21qQ6cTg5YsFPILndgfosGoBs6XuToFFc7tcIdB/qc/yjquDD6fRKEQpBMArQFS9I+qI/DO0lD&uid=173373703
 #EXTINF:-1 tvg-id="68" group-title="TV360", Kênh 68
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzAsInVyaSI6Ii9icGstdHYvMzc0L291dHB1dC9pbmRleC5tM3U4In0.7lY87Kyrgms4SQbnJlcPR0x8zCDv_HZDuyZdwu4IUvE&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MzcsInVyaSI6Ii9icGstdHYvMzc0L291dHB1dC9pbmRleC5tM3U4In0.YDEwTJ4i2qQBRa_QVOLoPRhvsejspo2Od8t05B32hpk&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="69" group-title="TV360", Kênh 69
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzAsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.hTS1Qqzw_lNCY3Z5KgBBA71Qy09uG32qBy9x_OOGg6g&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2MzcsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.9sQiA_n-Gmh-677jA0fv_Vfb2KVZwlPJhaQNhpA-hjY&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="70" group-title="TV360", Kênh 70
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/321.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/2b7CZauYeEN16RGPf0ppTYGYKdyfiVjs/YIuf7CQvykYZ0eU154tzNU7eKC1uNVoQgpabE6Z42/v3MXW+2UXSP07D4OCc9fzH47BA4BRP1JR/szK8rSb7zbLuZCxQjwJ3pBkL2EsPZOqWYoQor5qi0lAudPln1UGi+5TLU6x17H&uid=173373703
+http://171.238.180.230:18080/321.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5ssXnhyJ4JricmW+ZwyxaBeCp1BVYWRwADrBTaM5+FMzy9LbabtUxZybDe/eQnBK8ZciVPXoev8qHg7U/ETVImPMef8lpayrB0JWko5xLHIe9KHf7rhhNSKu8hter0S1kPbg9BYsRlXTb6MJOTiSoTtVp3yaFSnGfn+Ki9AZZhc&uid=173373703
 #EXTINF:-1 tvg-id="73" group-title="TV360", Kênh 73
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/335/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzAsInVyaSI6Ii9icGstdHYvMzM1L291dHB1dC9pbmRleC5tM3U4In0.CleItWuoS4Woi0wL9JpRBpFm_BdsaGgG0HmPDxLGsEQ&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/335/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDAsInVyaSI6Ii9icGstdHYvMzM1L291dHB1dC9pbmRleC5tM3U4In0.a81hxJhizSHDh3gdFaXHZFc8_-KVH56IJoxis3rAj_4&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="75" group-title="TV360", Kênh 75
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzAsInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.dwZPy7PZ9ZMuLpOTwe3VePr58gA8s6NIth2pbwzuZiA&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDAsInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.0UdgLWHbnS-infWXO2c5f3oywGQZGdadxL9Ehz5pGy0&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="76" group-title="TV360", Kênh 76
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zjmpvz1AHzTi69AZFotOpsuS8ctzO11A159c9qI0k0NHVO1ocV486ZtTJ9Gm/D9dPgLNGrkmhyPpM4OaxIlJwNkIbT1xVixk72mfKy4L9sdZdoFretN2R72iD8B6mXL31Gw+oBLxQFnd09Nea+nyLHhKuAIh5UPUrQNSZDOQPB7&uid=173373703
+http://171.238.180.230:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/yzBPnz+pHE4YCbBlq/6afWaFsWgEsn3Ele0//QVpGhEY92ykjkpHPEWDLrbtCvUcTKxRiNvRki7jioXBmNRlyF8/M9GGoezYYZ8wKhssWQ95pi5DPtkux8a5Ww8cJQ4NoBJ6x6Qzddx667TyVF542CAO9L9Fp3uwuC1HsowMlhe&uid=173373703
 #EXTINF:-1 tvg-id="77" group-title="TV360", Kênh 77
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/320.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3HDjOpsrpONI0z7sWxLyyyAxsrrtp3ZtfA0+P8xUc/DfNq71eoR7ZVQv9yhHn8P1NbSspERi1pVqpANtbIfRQzAMNk0AkHTvvDAf58B1tJ4sRqZEHH4Iy2ChNGMp2Use/k1HcCgrqGh7psAYAWahZP8Ut0ULr0AiboPhTgFKvKw&uid=173373703
+http://171.238.180.230:18080/320.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/z9Tl6LjrxC/06A6JsSHydH2hz1+3QcbIsCf2RcV5lFUzjNwwczNbPsjjn5Och2iyOejOgoMoYOM/73CpJE1Jl78CvRS7XAkaaS8yC5ny6d13P6Mk7KyU8cG0PEl+KO1Cb9htxdGhwom8dSpjXYdWrsNEkwwNYXZkWxugzigCqaH&uid=173373703
 #EXTINF:-1 tvg-id="78" group-title="TV360", Kênh 78
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/361/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzMsInVyaSI6Ii9icGstdHYvMzYxL291dHB1dC9pbmRleC5tM3U4In0.2bCjM2FNH4EwyLydplh555-ZEAm5sK1DSsQ4cv1gGB0&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/361/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDMsInVyaSI6Ii9icGstdHYvMzYxL291dHB1dC9pbmRleC5tM3U4In0.pXYCqBf1BJ6OnqIp3QUaMjsGug4wsyB4UPzpGSzGSVU&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="79" group-title="TV360", Kênh 79
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/382/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzMsInVyaSI6Ii9icGstdHYvMzgyL291dHB1dC9pbmRleC5tM3U4In0.y38nhuFmoRkVxxAlZvqB13UiGsBJ4k7KrmTD7o4Psfo&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/382/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDMsInVyaSI6Ii9icGstdHYvMzgyL291dHB1dC9pbmRleC5tM3U4In0.as0IWTi9tkuJTRzXKg_HzpgT-I1_6CnizPI5VEsr95Q&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="80" group-title="TV360", Kênh 80
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzMsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.lw5lZiqkS-Dnp6hD0ZAU20fl2WHQ4ktu2ruaDp6KflY&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDMsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.9m-eAMqCrezejwVEQ-eAVy1nrZZIeQCiKmERkRNFD6U&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="81" group-title="TV360", Kênh 81
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/366/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzYsInVyaSI6Ii9icGstdHYvMzY2L291dHB1dC9pbmRleC5tM3U4In0.Y-OU2s2681rpN2loh6QergwVHdCaKxw2wrPl8DGjaEw&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/366/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDMsInVyaSI6Ii9icGstdHYvMzY2L291dHB1dC9pbmRleC5tM3U4In0.VzUGdSy82QBAZLW2hgqyUKKnMixbBP_kloL_wt4nc2k&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="83" group-title="TV360", Kênh 83
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/260.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/52N+gR0fR8f77volgz3WQkvO0ruNmQdRxKzu73D1CcZ1UZxnk1skz9+o5e9rIbL6VerPhL24kuGEB61f1M53Iu1/hNt7rETcf2F0LdXgzjFvSFviCcb+3f4MyFCodjmE11hMtXJy8oWcSIbG0N/h+5u6M3BRtn+LgjGxG72l1qq&uid=173373703
+http://171.238.180.230:18080/260.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9d4Tt7Q1NLcCdMqOftb5WwWOM8OkvMrdbQ9JgF7C9inz9uFvEd2uWfdLzkkVJcF1xWLuZ3ghmJlBlykSNFfte1/HiHGwiT6HwyqOwtcvnoLgC3hQ8M7sQXk+Q5gYLjj6I1jWkGrlvBDftmnh8XaK22tbwigI3CPtCvFA75RQIQA&uid=173373703
 #EXTINF:-1 tvg-id="84" group-title="TV360", Kênh 84
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/362/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzYsInVyaSI6Ii9icGstdHYvMzYyL291dHB1dC9pbmRleC5tM3U4In0.mV8fL7ZZuLFnBmAY4e7x_9VJlZVcYKi_l8EIx0yRaz0&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/362/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDMsInVyaSI6Ii9icGstdHYvMzYyL291dHB1dC9pbmRleC5tM3U4In0.65tlJZKcpT_vs1NvdcUyr7xdP09Q-WwjUTMdhftgvds&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="87" group-title="TV360", Kênh 87
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/311.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zroTqdT0Bldq4lZkDnvlw1i742LGayMC/CcOwZY6q5uNu4X4TSXB+2Bsg0Fd1X+WD2eViMj8SoFXEYomF7SAYEgLKM6+tWmXL75r5ziEs+RGTkRDLYm4q/h5eCcX0HI1pzPokrAvftntBOM8ez3WiDWtoVvjAHDniMxfJmLX5sa&uid=173373703
+http://171.238.180.230:18080/311.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3GjgApZhpmaIGT89nQzOF5hYkgS+OHJ6mryW2NG8mMdZuCus7E4rS2T6q6ZKej8G9PyiEZjQ3tXm3xZh5gPtxIWcHs01zB2ETs0LU5ApQtuWYnC/XFD8v43HyxKKxFdujbh6zbiiVteCv9BJXFVrtGOHWfgL7ZqHeL/xsj7kl6w&uid=173373703
 #EXTINF:-1 tvg-id="88" group-title="TV360", Kênh 88
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/381/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzYsInVyaSI6Ii9icGstdHYvMzgxL291dHB1dC9pbmRleC5tM3U4In0.IPegqIOgWqrEavXZXJvwywCi2cwXUm08nZnXGY3lBxQ&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/381/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDYsInVyaSI6Ii9icGstdHYvMzgxL291dHB1dC9pbmRleC5tM3U4In0.Uay3sTiQROqM_9qxSgtr_FXhWs8_MG4K1EF8DFDB5So&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="89" group-title="TV360", Kênh 89
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzYsInVyaSI6Ii9icGstdHYvMzgzL291dHB1dC9pbmRleC5tM3U4In0.9QwWvnO3Qt-upIK00eh3tv0bGuyuhA4A6n3h6tSIdkU&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="90" group-title="TV360", Kênh 90
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyNzksInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.Yb1lhhfFNOtp4s2DVxBiLMxhWzuX9dMQCMzMqJSv01w&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="92" group-title="TV360", Kênh 92
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/303.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8MK7rpWsp7v2PW343CA1/Ml9TFgKeSTIPZkjUBvEenkd2sckNC6WzkXQUdtMMWmIXU4onyv7l03YHcOU9HAQAdsmiiqu8of8YXgyZpLmD+Pmj1Es4x0XWkZIL8SYlCswhMbOQmglX07wQIC23kqxpW1tzEr3a8TvMTZqNW2TV5B&uid=173373703
-#EXTINF:-1 tvg-id="93" group-title="TV360", Kênh 93
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/329.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8MK7rpWsp7v2PW343CA1/Ml9TFgKeSTIPZkjUBvEenk03d7Atr8u35u+HxOnxf5x/Q8EHYta+HIGvIUZALBboqImA0vWZ8afz5B5kUmX7Puxoq4uteO1mSRoznFtAcDYI51MNJmRq4i4+W+n9gYszVGEqbsK3Mbz3yWiUMrBpWV&uid=173373703
-#EXTINF:-1 tvg-id="95" group-title="TV360", Kênh 95
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/258.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/4kRXJvGoAECy5vbXPRqmJcfEXvp0OK9fbJ72iI2ggoth/jYOpvEQBMMs16CCjH0ioIrYngNySPAr+9CFk7tXx670tXjvDCFgsZ/CzMR6q3SQWKb6ZcfgEl/dBEziXL3Ec/+Di91/P5YinASuA0Z7WXZ85zKwAP0wZdyE+DP96a1&uid=173373703
-#EXTINF:-1 tvg-id="98" group-title="TV360", Kênh 98
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live-evg4.tv360.vn/aodpSzBgyw_472EYzpR65Q/1743554079/manifest/VTV6_HD/master.m3u8?manifestfilter=video_bitrate:1-4400000&uid=173373703
-#EXTINF:-1 tvg-id="99" group-title="TV360", Kênh 99
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/295/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyODIsInVyaSI6Ii9icGstdHYvMjk1L291dHB1dC9pbmRleC5tcGQifQ.f9ouvS_nEIcp7HYOKdopki2lmthrvxyLPHe9i8D6yjU&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="108" group-title="TV360", Kênh 108
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyODIsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.Xwu3Sgd-9wr1xXdf_AyT1Jej78kuZw60GdgfRSSv2Z4&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="110" group-title="TV360", Kênh 110
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/master.m3u8?timestamp=1743489282&token=2ac330113a51dee0ec660e8ba23e96ee&manifestfilter=video_bitrate:1-4400000&uid=173373703
-#EXTINF:-1 tvg-id="115" group-title="TV360", Kênh 115
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyODIsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.8CDDuDLcbRVHPVyXuxVX2XJBcLdJ7EoO1lqI-B2nFQk&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="132" group-title="TV360", Kênh 132
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyODIsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.5Ze8S3hlVtRXcuT8hgBDEfpnj70X6J7hLL-Qjt0MO84&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="133" group-title="TV360", Kênh 133
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyODUsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0.lHx1FUXPOJ1wiI4Nl_-U5ystP2u14kYX1wRNiM_PN8c&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="135" group-title="TV360", Kênh 135
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/176.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8dyExTaaZVA+yTiAa+hp/3tnAnDiamnysEyWSQD3vycGXeGl56lwqBaBDDAcsFFd/tHY3toXX5qAQEyYhxRttangzTjEdi5nbHDDo/2R3U8Fcpa2i4XbuRSY96e17OeZGTTCxhMbvRond+i65s4X4mDAppjMtFlGAPqVHFObWdj&uid=173373703
-#EXTINF:-1 tvg-id="136" group-title="TV360", Kênh 136
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyODUsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.ffWDW7Yh8qgVLr2DTFt4itUjore7l5eHg-08_teEA4w&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="148" group-title="TV360", Kênh 148
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyODUsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.T0XpylYGxEj-QeR5fuB2rhx-gx6JDik8v7zzAMOnDBw&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="151" group-title="TV360", Kênh 151
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/246.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zroTqdT0Bldq4lZkDnvlw1i742LGayMC/CcOwZY6q5uAmCqxp/2nwse2zhj+PVkU9+Y3wN99moMbi9QS7jOcthG8v5eh4qDYozvwIIOO7mKzvmxm0H2I6SHPsCjMl1fXYhkTHJ55cMD125qVC6pJ9jCqhvRkaRJdLi4XVwKh93c&uid=173373703
-#EXTINF:-1 tvg-id="159" group-title="TV360", Kênh 159
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/162.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7iF/n2VYCqaWK2QWTOzR0jzPcCBmVFbuSdUEEYFbaKMvnRr9E6KT6Yfs5rBD9yFgT5n/gl4Ao2XYESu1RF1dKaCnWFKxOlmoJ2X+5UObpvXbz64ocFZkFTa70aPuguMVfTKAhawrgIAEMIMfUYP26iVA77T6DywN2ZriszjHtUy&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NDYsInVyaSI6Ii9icGstdHYvMzgzL291dHB1dC9pbmRleC5tM3U4In0.QITS0a-UctxbPY1rbASAFTMl2h8T2E2cf8tEnM2TQl0&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="160" group-title="TV360", Kênh 160
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5hD08NSmu32yuMhdV/uVl2uYB8xwMr7CxMDop0OwsALCy4Px7EenqzrWwNFZG9KaZJ8wHdQ/OLt7YvbFmEdzDxvqQlNWGlQqOT6X03PFkpB14eAnRtyPchgkl/kP4Z9kr1tLB2Jj0Xnzk7Gr6pxRfLTtwyVfKKBL5zsc6DdNdz6&uid=173373703
+http://171.238.180.230:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/4Abeac3Gp4KqW2o6eyT64LFLzLrXGoJyMVEXLj6ldyWAEQwadAqw6ZpG6fxu+bXs+O3ony5xUz8po8iR/+u+TNAVi+Gm6fwSGvnPIhx1tuoSEXnSos96uPr3qDXgYZ8Q0S9EKutHb01vt90rFjDsKuk68o0ERxyWkXA3hHJ6SDJ&uid=173373703
+#EXTINF:-1 tvg-id="162" group-title="TV360", Kênh 162
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://171.238.180.230:18080/167.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/yzBPnz+pHE4YCbBlq/6afWaFsWgEsn3Ele0//QVpGhEOsyPPLKl+xCgRdQW/JD1bHw6TqRURjarbX3dUj8lNTxzxAQFJNZ26s5FE2eh9VTYqsHSr1PHmFpz/SQResqMSibqYLi3vvNALGj1+5YtG65CZbep02S1s4Jy9KWz0yKg&uid=173373703
+#EXTINF:-1 tvg-id="163" group-title="TV360", Kênh 163
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://171.238.180.230:18080/169.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/z9Tl6LjrxC/06A6JsSHydH2hz1+3QcbIsCf2RcV5lFUnNfQoOgWfAJz+VbHZLWFbeZulJ/c+P/lg6xjdemo42I5a1mNcGx4Fyz9B6fdE7HjjrO1QVKO5/ACtza+kAL5fwGb1nYKw/dCfHid1lh3NnLKqXm8fM8iahn8cC/YraGt&uid=173373703
+#EXTINF:-1 tvg-id="169" group-title="TV360", Kênh 169
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://171.238.180.230:18080/289.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/6V7ZZaw8dj6RBwgSG3+k1xU1niy5Xkuw0XqG1M/g8AdkKCaWprSdutxZpwJ/WHxXc588B0dB6tobUrVNhlBWWFdCD5bHrnNrlSiTwZHjCms1zvJ/YZsRpdGcNZ4jHTeQQbZdGQtSTIapli0nS8yvkmGtz0WGfNPz4Z2l04sRgor&uid=173373703
+#EXTINF:-1 tvg-id="175" group-title="TV360", Kênh 175
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://171.238.180.230:18080/348.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9d4Tt7Q1NLcCdMqOftb5WwWOM8OkvMrdbQ9JgF7C9inPPlx/Qhe1uugEZfqT67ezjD6ppF8l+lRI4zDBk0UE5FgWgldLK9tmnDp8R7dlnSa8s/zYQK/ErmIDGZYLGUPN3PqGDnu3lKH2mw2TZyu/BSKlM52HSSEIlGyBDttkxVJ&uid=173373703
+#EXTINF:-1 tvg-id="176" group-title="TV360", Kênh 176
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NTgsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.TmtL5Wa3Q5Efm5JCmphKCtIO_lXYPI3SJupEcB3Vt70&minrate=0&maxrate=6000000&uid=173373703
+#EXTINF:-1 tvg-id="177" group-title="TV360", Kênh 177
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NTgsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.Cr2RJostQJDmqhwfVnfPuirTPYyIpru3-Yu_3TR5UnQ&minrate=0&maxrate=6000000&uid=173373703
+#EXTINF:-1 tvg-id="178" group-title="TV360", Kênh 178
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://171.238.180.230:18080/263.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9d4Tt7Q1NLcCdMqOftb5WwWOM8OkvMrdbQ9JgF7C9inZ+VFof9Td6LZXyrcSyADUocJJz/CEmv6O2adwokrJQDITGbGfJ8p2dGsv8E99Y5V18WV1dyK4NAOJWuHzu8lTtLZnL+uKfhivcOnIhWfljUjKi085mAdZuAoq1ZZl8Lk&uid=173373703
+#EXTINF:-1 tvg-id="179" group-title="TV360", Kênh 179
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://171.238.180.230:18080/234.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/y9J8E3xwTc0HhGFq3dTA1znIwvQq/IJlpl+P80gfBYuh/ahqdj/to37YylnmH8+dx7BLZEICp9yH6oXHiY3DoN8728FhAO4+LDd9DULL95BlZm0V8p2wrrINq/zqh8JHQGpBIi3dI85jJ3MEgSndEUUXdKoNCOa4xw+GdPFGCSx&uid=173373703
+#EXTINF:-1 tvg-id="180" group-title="TV360", Kênh 180
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjEsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.FA-bYMK4qMDMiP6j596-Q3zDjKLqpeTCgnsFN8gU7Ro&minrate=0&maxrate=6000000&uid=173373703
+#EXTINF:-1 tvg-id="181" group-title="TV360", Kênh 181
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjEsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.cyZDbvlBY0VlB5uR0RLbO5GzYQ7pN-hFCoRB3Ezlock&minrate=0&maxrate=6000000&uid=173373703
+#EXTINF:-1 tvg-id="182" group-title="TV360", Kênh 182
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjEsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0._tH71r3M30R__A7uHgZSJ-eUnUPkNJf0R3OzUtpLcNk&minrate=0&maxrate=6000000&uid=173373703
+#EXTINF:-1 tvg-id="184" group-title="TV360", Kênh 184
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjQsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.c_a5MTV_AV1634mnYIVGye_ZfEVsYu_Hl0MNYLSQQns&minrate=0&maxrate=6000000&uid=173373703
+#EXTINF:-1 tvg-id="185" group-title="TV360", Kênh 185
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjQsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.6Boye6xvScbSearCFs3Q7aK_bydjqDFjOvPTC-1MO6Q&minrate=0&maxrate=6000000&uid=173373703
+#EXTINF:-1 tvg-id="186" group-title="TV360", Kênh 186
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://171.238.180.230:18080/350.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/13vbxqc9kfa5OoScqofs4gtdyQZMeR1GxnLxcoouKcojjpho2xj/mKPfdFh1SD3YTMvYrdTJlLNUVoPLwZSfjO4lkL7yZp9aCfOuuysXQoUwy+ibOxRYPSZ5CkvpaHNp/9E5bvPZJY4bjBKTQ08Guwncwshpz+dIubPcoPg4pOb&uid=173373703
+#EXTINF:-1 tvg-id="187" group-title="TV360", Kênh 187
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjQsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.2yvFAteiFvqGwb159yLBTUC76snjNh5pY_G1yEwtAYc&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="188" group-title="TV360", Kênh 188
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyOTcsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.Hva4IP-Xg3CpolfPbuJjFHVaNTfabns--Ch_8Z1Kizc&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjQsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.5BDMjiTRjjy9XfTupJFz8YPabv2hWnH9TPGL9G6cBAI&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="189" group-title="TV360", Kênh 189
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyOTcsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.dLVjyisGNf4Vza9_77hV29P0BPrMo9fWAqBd01Z88tE&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjcsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.WPHtPBiNfGUyofE9oEqnl5MM-UkrssrQnRyzCiHoAes&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="191" group-title="TV360", Kênh 191
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/336/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyOTcsInVyaSI6Ii9icGstdHYvMzM2L291dHB1dC9pbmRleC5tM3U4In0.Y4CTNxF5N5D9MAfaK_UIPGDCRVs-ht6dPKouCKgYhLo&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/336/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjcsInVyaSI6Ii9icGstdHYvMzM2L291dHB1dC9pbmRleC5tM3U4In0.dm1u_cV6E6O6UXQKPCz_ELFcg-fDOgwb9RFYXSDHv_o&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="193" group-title="TV360", Kênh 193
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkyOTcsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.zuFPLEX5I7hj8Fdf7lwo1lxPSSLsoA1X1SFn4-Eg0HU&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="194" group-title="TV360", Kênh 194
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/158.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3ZMGDbrXLaBmWuq0UPzmzS9BM8m3HQIowmtNJue7AahSO1tp+rsGLkMRVrQMiaJj2kdw2tOqPiXbqDKH9hfszTQ3XKPLVIAMnV45bD0jVH2cT9S1676mTBOmH6iCXgQbjCe6G7ZphdlpNDV7FAeZxKadpRDGnbZ7ViWgnRsysW7&uid=173373703
-#EXTINF:-1 tvg-id="195" group-title="TV360", Kênh 195
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMDAsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.r46QzwSlDXON9-L0LoT6StxnBMtSA3Lr7Kbf1YO__1g&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="201" group-title="TV360", Kênh 201
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/343.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zO1S+ApYzRup2zTB8OdskZnD27uy0f2EELPq13Xuqx9pscpJkFydUvIiyT4GHO9a0BNBXzViv55BFAK1LKTsN0dftId8b41Opnf0HfTPgk8ty2XGtmacu71lyjwytMd3YpowV3VegqGKaadawi4DPJDHkGmmbjB/DWkkHGVh7wA&uid=173373703
-#EXTINF:-1 tvg-id="207" group-title="TV360", Kênh 207
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMDYsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.TDmWFqdfEPMOyHprVdUW6xstGSNKlShmUeYyD0o8EbY&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="212" group-title="TV360", Kênh 212
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/170.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8dyExTaaZVA+yTiAa+hp/3tnAnDiamnysEyWSQD3vycs5OiExo2HnhELfvncQKr7eOPOCJvS0TqOsC9KoppxQFrdBKoSY7iok9MMH22kJijT//O4fl5xoh4b0JfhhSoojv6zInAWjNySE8TVMN/taFc5QjafJtsgkHHOvddU5zx&uid=173373703
-#EXTINF:-1 tvg-id="214" group-title="TV360", Kênh 214
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/173.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5xchOk1AiMpKFdgSAQ54znabGXmgyq5zDlcc5gFlq7rZnpkG2nyQS2ga94po0drza0A62j8nWaKmq2qZpK1F/aoa+mYlxWvhKACkp43rzFJSelg/m+IaRTNElJbUCZwj6qNlCGfuPiJeWlNA8LD9pnfPOQw7aza6PRvqpyvW2gX&uid=173373703
-#EXTINF:-1 tvg-id="215" group-title="TV360", Kênh 215
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/178.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9poZmWzFy7h9//w64qY+FNCLuyyyXf/hk2VLI7DEVUhoIg+lqopb4PqcWuNghIETI2nfUi+yRetaKQ9wKYP6VGeW2KvFZ6Y2l45MTvIm6BlIJWECQsLPUJ0DaJlg6+DJ8IWh1U99mBy8FkI1WJ5kJZqg6YK5KGmZvKFfjpHQuOI&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NjcsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.a7tl3JNu5sF7vSJ1H9JEnKRHdC0Qjr6G0DRKDakkCNc&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="216" group-title="TV360", Kênh 216
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/146.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5mWqjBLTD7sSHkxICunXOAni6eQOZ8zd/0i9L9KVXWYLi1wTvEgm9+2XdlI1EFC9yb50OjzTGy1jonEnHYUco/2pUv/TXUuijAZoFsi5LTAnfLv1TmKZuaLVkthe9w+aiMIKcr9Ub+daubNFuWODA2gIzkr2f1GJKcN3VEPqHei&uid=173373703
+http://171.238.180.230:18080/146.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8FcQF2/nRXK+f3QTVxj8xkoPz8sH9oX8UZJ0+WXpaqKzyhmgYvImlDCKBsqPl2r7Q+A0pGRS21rrk5YQTclT/Xw0bdpVFYr6SELzwbQsbYRXXU84QkS7NkEw/KNbYpJaccygNi5D6n0Gb9h/KZKFkfVGaGZ5Sj/pIlESsxN2DTj&uid=173373703
 #EXTINF:-1 tvg-id="219" group-title="TV360", Kênh 219
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMDksInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.uNQYYBcT3thSESMWTZqfJ6hFyqf6uQi0aRTY14JzC5g&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2NzYsInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.pZ9Q54wdv4g76wN3wkT8uJ0X9zBzd2R_017dZYOrbkw&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="220" group-title="TV360", Kênh 220
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.230:18080/251.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SLltlxDWx+CFX60khEpGakxLMlnfxfqmlSwmoma3lbZtVwqZaU9/t3rdzTe4mMh9h9HdQ5K+WrWhh+UzJqagXADqKFr7yIkb/dos6/pGZiDm40xKPJYJx/78W3ZE4MLuBg86uJ0rd+S6bsBuNPp4H4m/3RYmhsEM1FfvhcBXA1yA==&uid=173373703
+http://116.108.198.150:18080/251.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R3GZrDb5fOE8XJFmwh6s6ALtHI7ng13mL8waCGrMnSB8IXVD9I81kZLuWpj66Q6A1NrsDL4UUNqEnXf+LUkE46OhEQEDbBlxI4uOY1W7TDHqfq2geySmA+70jMYppnOtax5KuvfArQTNv6n3Ag6USkKukO+k2iVA1HVTg2/phlNw==&uid=173373703
 #EXTINF:-1 tvg-id="232" group-title="TV360", Kênh 232
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/297.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/wbaOqV8Dh+kqKKTpUey/Jw+qbRHdUlgIW6QKVwR3IZITbGxrgTk4OygAgkeouhwndJtkRBRB7OVf65V7PMtC3vNSe5dbduPZyXVNLxlgzMpJ1mjmjJkSx3uLV+hPbqWmbRNh4XspQoB3kAae/KsMpIlzR/hOAFbT7sRHVbhVTkF&uid=173373703
+http://171.238.180.230:18080/297.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3aTKo9QrweW0iM0SiODXHgcc28xeAkyezSckF/sDFl0tH64f/zNHgpCIxAUP6jcqTrXT/221cEKLCx8SRZr7RLghHIgo6cNSqLXWR9/suPXB6lfEFUNoH5nIZa2SsB+sTu8hpjvZgq1yt4eVt1hSrZJICX124kmZUHPxGUargrf&uid=173373703
 #EXTINF:-1 tvg-id="235" group-title="TV360", Kênh 235
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/187.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8dyExTaaZVA+yTiAa+hp/3tnAnDiamnysEyWSQD3vycmtSe8A/LoChDtVimbwV8gILWF7KM6NRv7k+4tZ2JNKh2KrZyWrxv959F6stFYxsDINdq5sHWD2V8fq5w2vycZPGdhjG8dw3Wa+Eonl5Pl4nKVeEF0tkV4sV1XttQKW5Q&uid=173373703
+http://171.238.180.230:18080/187.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9KwcH3anZJnFcwzyAAq/VmTj594W+L4XbIfWnTxQpYRKsBrLlcuomRGrsIKyqOoR9zcua/pJMNcJjXoj4n7yYkgKZRNUSE9Weuoi3MfezVkIYmj8VlTXZ3kpV/WSAtQXCQv+O9Imn051BV1GE74cl5y1YBOxJVy3ACr3EnPT/3I&uid=173373703
 #EXTINF:-1 tvg-id="237" group-title="TV360", Kênh 237
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/188.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5hD08NSmu32yuMhdV/uVl2uYB8xwMr7CxMDop0OwsAL+F1xKVdA57wRp5eEkTT9eDYvep2oekvICDKRic3NhHwUlmx6rYBvT1CeusiD1KHNcNdPumy/gsm4g/CC1dQoL58ThNT6BL8BoliQHP/WRW8FLYpM+SAvz3OdftW5bJWP&uid=173373703
+http://171.238.180.230:18080/188.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5ssXnhyJ4JricmW+ZwyxaBeCp1BVYWRwADrBTaM5+FMwpLpB4lQwUT7cI2HtK5q5IlC61u1czYeOXxKgOFMxpIvYeRp1nABZG9xaG3aEYxnXLILwwj3Mdswo0VN9DiCQshIyPgrwXHF2Hb+VZGMn6p/tzl7QK2biW0EL6uaJTB9&uid=173373703
 #EXTINF:-1 tvg-id="239" group-title="TV360", Kênh 239
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/189.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/0ZgUvqr+wTGV+u5ZdoCR+uBiDjje5ji5frSRnh6WRa1LcL+o3d0Zkyib8PgEL6xV0fBcMtD9mlKhLrsygx6tKksKKbYa33KTlADsfGTfpGw8ZPo1n04H7NaWpc/JBzxqb4U+jcQPxbqKRFm8LLQVlwJIWKZi2Fc8JfR7o19KAo3&uid=173373703
+http://171.238.180.230:18080/189.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3zZH0EgUtjF/YXTU574Z/ZqqC6j3dFguNeNHCxegUhWcaIeyV2yMAWQUuGa3YLDk10F4o4mTNSiq1sLGK6B7kIlzU01FXHA+e/iQYohoXIsEM+Frwu+heYVyk9OciWvztj4Z6x7nqm9s3DvnKLgAEzzEW7naXicu6mLv6oJX5r6&uid=173373703
 #EXTINF:-1 tvg-id="255" group-title="TV360", Kênh 255
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/286.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/52N+gR0fR8f77volgz3WQkvO0ruNmQdRxKzu73D1CcZaQAGEkdDJs/OCoV3fsXCupzLeEW2P+htnH+AuPFQ0UsGdKTMsxwjF7mnirLl30JOw4wsdERKy9KIsMVS2UlvqyiBUCYEtHddXi93naN8m14fE55PNfv7zJkGTEw4JlRB&uid=173373703
+http://171.238.180.230:18080/286.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9QjNfj8/SiEcma1w3wJNfuX+sp8yKE0WBew71HEOaUZT5e1v6aIRTvp5ug4KvNHM1Ys8uQLnqfddQHS/QbQ8QQFKoVUww7HNS3isM7UFZ4PXaQm0N0PR4/hxCDbaP+KgZz/bsZck4aFysPL0XaRNZvesyhAM/OovqhM2wTeo5+a&uid=173373703
 #EXTINF:-1 tvg-id="289" group-title="TV360", Kênh 289
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/271.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8dyExTaaZVA+yTiAa+hp/3tnAnDiamnysEyWSQD3vycdrnqrZJ0pE3OA/xLjYvDpOHDYxksVbCAm+bfxM4u5IjamcRNQp8rBszDsWdJnGFGJunQqUPHxYPzbTwhuNVhnotND2X4xbtUswBwV7Qtd7A5OVGYj/O94qROTDJ55ITG&uid=173373703
+http://171.238.180.230:18080/271.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zCk/5j0KLATsCZjBN2HjMH7NXkIk5l2MyagLWC9jI/6uQi7lMkY1KBxoAHEW27TVKsZMJF4r5Ha4IwGfnuUAbQcvvamIBvHGyP+v07rMdJIbcZr9BKZFtEB3zW5DG58RMdQe6v1wTVFQ2hOWlX/DNIw3Fd+h1wXrOAVHmAwUyaF&uid=173373703
 #EXTINF:-1 tvg-id="2458" group-title="TV360", Kênh 2458
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/201/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMTIsInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tM3U4In0.KpTxBAI2fR6_Eku0Og-Xvh8UYyy7wdLUQkf3vN4jyYI&minrate=0&maxrate=6000000&uid=173373703
-#EXTINF:-1 tvg-id="2554" group-title="TV360", Kênh 2554
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/198/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMTUsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tM3U4In0.lQenLJqnRt1hQ9_gjF_We-URd24UuILADD_k2O6ahDk&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/201/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2ODIsInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tM3U4In0.S1n66qRtZLkGM962ZwP7-YOR_IC3tO6ypXKvGkhx-MY&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="9832" group-title="TV360", Kênh 9832
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/306.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/xR6P7sFB8AUZ27AsyArlZlonhKT+TF/d+3OUvN/Uv6HlpomWuFpAcH1gRtcXlf2WwxGnQGmTMFP7ikk7hDLZtX3Pr2jMx9goCmcezGr0/cVSEjhERjEpaQbY3CQXjpbu+Ht8Wj1u04phB0lQJSs1BndYHMB1MoNV9G7cuv1rJbo&uid=173373703
+http://171.238.180.230:18080/306.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/4Abeac3Gp4KqW2o6eyT64LFLzLrXGoJyMVEXLj6ldyW6oWfLdiJFsW83UyOf7dJBvabSUjgnfdARHRD7nPpj3yWXARlxngcSEvM9xvSHI5tvBWCFFVKBcV402TCMJ+XQuXpkXVgKINkxBI3D8EJ0kwHikkb58GbwbsJrf5gIigv&uid=173373703
 #EXTINF:-1 tvg-id="9856" group-title="TV360", Kênh 9856
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMTUsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.2ChgvNkVCcQWBnIk4Ri3cDqgP4JNh8N3MikSknxIem0&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2ODUsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.z6CSXQjYI6p8PtgUWNPDWb8NCdXnNL_IKiJW7HOUGbM&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="9867" group-title="TV360", Kênh 9867
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/367/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMTUsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tM3U4In0.h7jl1ZieNpzaoV7DN0FDGh1AuTj5wgj64gm0LLQXE-Q&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/367/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2ODUsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tM3U4In0.51kVqKmvzi01hMCypFRztyEapbUHZezfGK071sGSqTk&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="9868" group-title="TV360", Kênh 9868
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/368/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMTUsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tM3U4In0.u3OWGuE71Nx2TF_49s-Nv7CekE8U1SDDeXEUHny-jAk&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/368/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2ODUsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tM3U4In0._btRJiXOwyE6u1KZRij2c76v2dX5DThtSVGk5YUOcEM&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="9869" group-title="TV360", Kênh 9869
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/369/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMTgsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tM3U4In0.W4Lcfus3opSD7JT2IovJZCZScOEsXC3FVwz_BwaU4-c&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/369/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2ODUsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tM3U4In0.5QD9qwnyyIRw1PyhY7BqPwygBel-dvfNnJCV59KSxS8&minrate=0&maxrate=6000000&uid=173373703
 #EXTINF:-1 tvg-id="9887" group-title="TV360", Kênh 9887
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM0ODkzMTgsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0.hXl2wPc0zA_-VK_aDIWZE-cVdVZ5WKYtnBdz4RubKuU&minrate=0&maxrate=6000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDM1MDA2ODgsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0.vEcJc77PexqQKQIBGF-m_JsYFAdabl0rmDeUlF2TfnM&minrate=0&maxrate=6000000&uid=173373703
