@@ -94,6 +94,23 @@ http://vuikhoetv.online:80/live/beo123/tr1234/7206.ts
 #EXTINF:-1 xui-id="7211" tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://i.imgur.com/O0HdUpB.png" group-title=" SCTV ⚽️",SCTV22
 http://vuikhoetv.online:80/live/beo123/tr1234/7211.ts
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+HD" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg", K+CINE HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+http://1.53.80.163:8183/tvmp.php?play&id=vtv-kcine&type=playlist.m3u8&pass=nvtl
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+HD" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg", K+ACTION HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+http://1.53.80.163:8183/tvmp.php?play&id=vtv-kaction&type=playlist.m3u8&pass=nvtl
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+HD" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg", K+SPORT1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+http://1.53.80.163:8183/tvmp.php?play&id=vtv-ksport1&type=playlist.m3u8&pass=nvtl
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+HD" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg", K+SPORT2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+http://1.53.80.163:8183/tvmp.php?play&id=vtv-ksport2&type=playlist.m3u8&pass=nvtl
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+HD" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg", K+KIDS HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+http://1.53.80.163:8183/tvmp.php?play&id=vtv-kkids&type=playlist.m3u8&pass=nvtl
+
+
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV1.png",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV2.png",HTV2
