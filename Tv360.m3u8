@@ -858,6 +858,29 @@ http://p1.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/1200px-CNBC_2023.svg.png",CNBC
 http://p1.cvtv.xyz:81/cnbc?token=live
 
+#EXTINF:-1 tvg-id="vtvcab16" group-title="🍃VTVCAB TV360 THỬ NGHIỆM🍃" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650262120/e59e8070de9e.png",VTVcab 16 - On Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LzgM2+8D+ZqussM+I867aA", "kid":"Eyro7VTeQKyTKaarAlARxg" } ], "type":"temporary" }
+https://live-evg3.tv360.vn/DkuFHKIZyH36ceIoYHOdxQ/1745046735/manifest/VTVCab16_HD_50fps/master.mpd?manifestfilter=video_bitrate:1-4400000&uid=173373703
+
+#EXTINF:-1 tvg-id="vtvcab3" group-title="🍃VTVCAB TV360 THỬ NGHIỆM🍃" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650417587/4ced7c97486c.png",VTVcab 3 - On Sports
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LzgM2+8D+ZqussM+I867aA", "kid":"Eyro7VTeQKyTKaarAlARxg" } ], "type":"temporary" }
+https://live-evg3.tv360.vn/d2lqlyJ32cEmWX2iLlCXoQ/1745046735/manifest/VTVCab3_HD_50fps/master.mpd?manifestfilter=video_bitrate:1-4400000&uid=173373703
+
+#EXTINF:-1 tvg-id="vtvcab18" group-title="🍃VTVCAB TV360 THỬ NGHIỆM🍃" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/16826503649/4d28e5d0a015.png",VTVcab 18 - On Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bgQS3WPpeT2WWU8PgpNZdw", "kid":"9wwD5ILbT9aP+iVpXXXVvA" } ], "type":"temporary" }
+ https://live-evg3.tv360.vn/rCchpSPr3M4pKu9XKH8MOA/1745046726/manifest/VTVCab18_OnNews_HD_50fps/master.mpd?manifestfilter=video_bitrate:1-4400000&uid=173373703
+
+#EXTINF:-1 tvg-id="vtvcab6" group-title="🍃VTVCAB TV360 THỬ NGHIỆM🍃" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png",VTVcab 6 - On Sports +
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zmMUEJp7CDZuszWitMDGkg", "kid":"//3bo2JiQFa0ebLYmyXWmg" } ], "type":"temporary" }
+https://live-evg3.tv360.vn/FRnyLxUplIqpBsHh7Cndjg/1745046741/manifest/Onsport-plus-HD-50fps/master.mpd?manifestfilter=video_bitrate:1-4400000&uid=173373703
 
 
 
