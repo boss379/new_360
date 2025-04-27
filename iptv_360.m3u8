@@ -36,6 +36,59 @@ https://thvip.site/vi/Vieon.php?id=anninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thvip.site/vi/Vieon.php?id=quocphong
 
+#EXTINF:-1 tvg-id="190" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htv1
+
+#EXTINF:-1 tvg-id="9" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htv2
+
+#EXTINF:-1 tvg-id="192" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htv3
+
+#EXTINF:-1 tvg-id="192" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htv4
+
+
+#EXTINF:-1 tvg-id="193" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htv7
+
+#EXTINF:-1 tvg-id="194" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htv9
+
+#EXTINF:-1 tvg-id="11" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=giadinh
+
+#EXTINF:-1 tvg-id="12" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=phunu
+
+#EXTINF:-1 tvg-id="13" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=thuanviet
+
+#EXTINF:-1 tvg-id="14" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=canhac
+
+#EXTINF:-1 tvg-id="15" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htvcphim
+
+#EXTINF:-1 tvg-id="132" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=htvcplus
+
+#EXTINF:-1 tvg-id="133" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thvip.site/vi/Vieon.php?id=dulich
+
 #EXTINF:-1 tvg-id="2" group-title="VTV  🐱🐍🐕🐎" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
