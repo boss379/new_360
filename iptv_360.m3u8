@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:-1tvg-id="vtv1hd" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thvip.site/vi/Vieon.php?id=vtv1
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Truyền hình Việt Nam 🇻🇳" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
